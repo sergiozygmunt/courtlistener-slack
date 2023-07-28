@@ -7,7 +7,7 @@ The Free Law Project's CourtListener is a great resource to many and has a Webho
 _Docket alert_
 
 ## Instructions
-1. Copy the courtlistener-slack.js file contents to a blank Worker Quick Edit file.
+1. Copy the `courtlistener-slack.js` file contents to a blank Worker Quick Edit file.
 ![enter image description here](https://imagedelivery.net/_giFxkjSa0fKWn6HYiz9Ug/43278dc1-2f6c-48ce-2ac0-bf6a0dda7b00/public)
 2. Edit the Slack URL to be your Slack webhook URL.
 3. Set flags:
