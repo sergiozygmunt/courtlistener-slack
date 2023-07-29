@@ -1,7 +1,6 @@
-﻿# CourtListener Slack
-This project is a Cloudflare Workenter code hereer that ingests the Webhooks from CourtListener and then makes this formatted for Slack and send them back out. 
-
-The Free Law Project's CourtListener is a great resource to many and has a Webhook service where it'll send you updates to cases, dockets, and more. Sadly, the Webhooks are not formatted for Slack by default. While I think the Free Law Project does great things for the legal community and beyond, I, nor this project, is affiliated, endorsed, or otherwise connected to the Free Law Project
+![image](https://github.com/sergiozygmunt/courtlistener-slack/assets/6076316/4f4a69a8-f66f-42f9-b7bd-bd54915ac7b7)﻿# CourtListener Slack
+This project is a Cloudflare Worker that ingests Webhooks alerts from CourtListener, formats them for Slack, and then resends them to Slack.
+The Free Law Project's CourtListener is a great resource to many and has a Webhook service where it'll send you updates to cases, dockets, and more. Sadly, the Webhooks are not formatted for Slack by default. While I think the Free Law Project does great things for the legal community and beyond, I, nor this project, is affiliated, endorsed, or otherwise connected to the Free Law Project.
 
 ![docket alert pic](https://imagedelivery.net/_giFxkjSa0fKWn6HYiz9Ug/8dd0f66b-7d93-4a8a-54df-11ccf6f60400/public)
 _Docket alert_
